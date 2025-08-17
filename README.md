@@ -36,8 +36,8 @@ project-root/
 
 ### 1. Clone Repository (or Download Code)
 ```bash
-git clone <your-repo-url>
-cd project-root
+git clone https://github.com/sagar2002malik/Traffic_Flow_Analysis.git
+cd Traffic_Flow_Analysis
 ```
 
 ### 2. Create Virtual Environment (Optional but Recommended)
